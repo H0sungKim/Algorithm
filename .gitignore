@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 # Time Measure Test
-test1.py
-test2.py
+/test1.py
+/test2.py
