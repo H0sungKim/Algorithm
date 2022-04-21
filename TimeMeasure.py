@@ -2,7 +2,7 @@
 
 import time
 
-FILE_NAME = input("Enter the name of the file whose performance you want to measure.")
+FILE_NAME = input("Enter the name of the file whose performance you want to measure.\n=> ")
 
 START_TIME = time.time()
 
