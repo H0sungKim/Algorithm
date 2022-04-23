@@ -6,9 +6,7 @@ FILE_NAME = input("Enter the name of the file whose performance you want to meas
 
 START_TIME = time.time()
 
-# main function ##############
 __import__(FILE_NAME)
-##############################
 
 END_TIME = time.time()
 
