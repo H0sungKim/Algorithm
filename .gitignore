@@ -131,3 +131,6 @@ dmypy.json
 # Time Measure Test
 /test1.py
 /test2.py
+
+# C exe files
+*.exe
