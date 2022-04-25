@@ -2,7 +2,7 @@
  * 
  * Euclid's algorithm
  * 
- * Get the greatest common divisor (GCD) of two input integers.
+ * Calculate the greatest common divisor (GCD) of two input integers.
  */
 
 #include <stdio.h>

@@ -15,10 +15,12 @@ int main() {
 
 int addQueen(int deep, int chess[]) {
     if (deep == mapSize) {
+        // Print Chess Map ==============
         for (int i=0; i<mapSize; i++) {
             printLine(mapSize, chess[i]);
         }
         system("cls");
+        // ==============================
         return 1;
     }
     int result = 0;
