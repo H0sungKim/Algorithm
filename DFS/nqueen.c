@@ -1,11 +1,13 @@
 #include <stdio.h>
+#include <wchar.h>
+#include <locale.h>
 
 int mapSize;
 int addQueen(int deep, int chess[]);
 void printLine(int mapSize, int queen);
 
 int main() {
-    
+    setlocale(LC_ALL, "");
     scanf("%d", &mapSize);
     int chess[mapSize];
     printf("%d", addQueen(0, chess));
@@ -39,17 +41,12 @@ int addQueen(int deep, int chess[]) {
 }
 
 void printLine(int mapSize, int queen) {
-    char line[mapSize*2-1];
-    for (int i=0; i<sizeof(line); i++) {
-        if (i%2 == 1) {
-            line[i] = '*';
-        } else {
-            line[i] = 0;
-        }
+    for (int i=0; i<queen; i++) {
+        wprintf(L"■");
     }
-    line[queen*2] = 'Q';
-    for (int i=0; i<sizeof(line); i++) {
-        printf("%c", line[i]);
+    wprintf(L"□");
+    for (int i=0; i<mapSize-queen; i++) {
+        wprintf(L"■");
     }
     printf("\n");
 }
