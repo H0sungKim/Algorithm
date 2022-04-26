@@ -24,6 +24,6 @@ int main() {
     scanf("%d", &num1);
     printf("Enter the second number : ");
     scanf("%d", &num2);
-    printf("\nThe greatest common divisor (GCD) of \e[1;33m%d %d\e[m is \e[1;33m%d\e[m.", num1, num2, getGcd(num1, num2));
+    printf("\nThe greatest common divisor (GCD) of \e[1;33m%d %d\e[m is \e[1;33m%d\e[m.\n", num1, num2, getGcd(num1, num2));
     return 0;
 }
