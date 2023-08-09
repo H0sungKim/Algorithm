@@ -1,4 +1,4 @@
-# Copyright (c) 2022 by Hosung.Kim <hyongak516@mail.hongik.ac.kr>
+# 2022 Hosung.Kim <hyongak516@mail.hongik.ac.kr>
 
 '''
 ==============
