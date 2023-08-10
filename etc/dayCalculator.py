@@ -1,6 +1,4 @@
-"""
-2022 Hosung.Kim <hyongak516@mail.hongik.ac.kr>
-"""
+# 2022 Hosung.Kim <hyongak516@mail.hongik.ac.kr>
 
 day = 0
 
