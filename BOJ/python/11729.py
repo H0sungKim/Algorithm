@@ -1,4 +1,4 @@
-# 2021 Hosung.Kim <hyongak516@mail.hongik.ac.kr>
+# 2023 Hosung.Kim <hyongak516@mail.hongik.ac.kr>
 #
 # URL :           https://www.acmicpc.net/problem/11729
 # Difficulty :    골드V
