@@ -1,8 +1,4 @@
 # 2023 Hosung.Kim <hyongak516@mail.hongik.ac.kr>
-#
-# URL :           https://www.acmicpc.net/problem/2448
-# Difficulty :    골드IV
-# Problem :       별 찍기 - 11
 
 import copy
 
