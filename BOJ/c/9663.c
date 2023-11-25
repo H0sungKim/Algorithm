@@ -4,7 +4,6 @@
  * URL :        https://www.acmicpc.net/problem/9663
  * Difficulty : 골드IV
  * Problem :    N-Queen
- * 
 */
 
 #include <stdio.h>

@@ -4,14 +4,12 @@
 # Difficulty :    골드V
 # Problem :       하노이 탑 이동 순서
 
-'''
-n+1
 
-n (2 <-> 3)
-1 3
-n (1 <-> 2)
-'''
-
+# n+1
+#
+# n (2 <-> 3)
+# 1 3
+# n (1 <-> 2)
 
 
 def hanoiTower(depth, oldHanoi) :
