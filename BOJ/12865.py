@@ -16,8 +16,8 @@ item = []
 for i in range(n) :
     item.append(list(map(int, input().split())))
 
-# 시간 초과 ======================================
-# 모든 경우의 수 탐색
+# TimeOut ======================================
+# Explore all cases
 # maxValue = 0
 # for i in range(2**n) :
 #     tempValue = 0
