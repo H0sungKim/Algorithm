@@ -42,7 +42,7 @@ result = set()
 for i in range(n) :
     result = result | set(areaMap[i])
 # print(areaMap)
-print(len(result))
+print(len(result), end=" ")
 
 # R82 G71 B66
 
