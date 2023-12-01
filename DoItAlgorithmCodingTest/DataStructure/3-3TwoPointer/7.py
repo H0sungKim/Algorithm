@@ -10,19 +10,19 @@ m = int(input())
 material = list(map(int, input().split()))
 material.sort()
 
-point1 = 0
-point2 = n-1
+pointer1 = 0
+pointer2 = n-1
 
 result = 0
 
-while point1 < point2 :
-    if m > material[point1] + material[point2] :
-        point1 += 1
-    elif m < material[point1] + material[point2] :
-        point2 -= 1
+while pointer1 < pointer2 :
+    if m > material[pointer1] + material[pointer2] :
+        pointer1 += 1
+    elif m < material[pointer1] + material[pointer2] :
+        pointer2 -= 1
     else :
         result += 1
-        point1 += 1
-        point2 -= 1
+        pointer1 += 1
+        pointer2 -= 1
 
 print(result)
