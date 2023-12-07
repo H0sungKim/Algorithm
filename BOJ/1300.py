@@ -4,6 +4,8 @@
 # Difficulty :    골드I
 # Problem :       K번째 수
 
+# BinarySearch
+
 n = int(input())
 k = int(input())
 

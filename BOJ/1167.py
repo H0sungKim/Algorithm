@@ -4,6 +4,8 @@
 # Difficulty :    골드II
 # Problem :       트리의 지름
 
+# BFS
+
 from collections import deque
 import sys
 input = sys.stdin.readline

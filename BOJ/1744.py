@@ -4,6 +4,8 @@
 # Difficulty :    골드IV
 # Problem :       수 묶기
 
+# Priority Queue
+
 from queue import PriorityQueue
 import sys
 input = sys.stdin.readline

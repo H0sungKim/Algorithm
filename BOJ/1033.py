@@ -4,6 +4,8 @@
 # Difficulty :    골드II
 # Problem :       칵테일
 
+# DFS
+
 def getGCD(num1, num2) :
     while num2 :
         temp = num1 % num2

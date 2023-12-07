@@ -4,6 +4,8 @@
 # Difficulty :    플래티넘V
 # Problem :       최솟값 찾기
 
+# Queue
+
 # If a number earlier in the order has a larger value, that number can never be chosen as the minimum.
 
 from collections import deque

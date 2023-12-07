@@ -6,6 +6,8 @@
  * Problem :    N-Queen
 */
 
+// DFS
+
 #include <stdio.h>
 
 int mapSize;

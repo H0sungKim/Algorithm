@@ -4,6 +4,8 @@
 # Difficulty :    골드V
 # Problem :       공약수
 
+# Euclidean Algorithm
+
 import math
 
 def getGCD(num1, num2) :

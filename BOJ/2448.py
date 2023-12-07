@@ -4,8 +4,6 @@
 # Difficulty :    골드IV
 # Problem :       별 찍기 - 11
 
-import copy
-
 def upgradeTriangle(repeatCount, triangle) :
     if repeatCount == 0 :
         return triangle

@@ -4,6 +4,8 @@
 # Difficulty :    골드V
 # Problem :       거의 소수
 
+# Sieve of Eratosthenes
+
 a, b = map(int, input().split())
 sqrtB = int(b**0.5)
 

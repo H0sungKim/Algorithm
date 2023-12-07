@@ -4,6 +4,8 @@
 # Difficulty :    골드V
 # Problem :       신기한 소수
 
+# DFS
+
 # The first digit must be one of 2,3,5,7 and the remaining digits must be one of 1,3,7,9.
 
 import sys

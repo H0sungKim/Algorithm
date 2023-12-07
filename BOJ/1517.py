@@ -4,6 +4,8 @@
 # Difficulty :    플래티넘V
 # Problem :       버블 소트
 
+# Merge Sort
+
 import sys
 input = sys.stdin.readline
 

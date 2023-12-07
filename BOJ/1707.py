@@ -4,6 +4,8 @@
 # Difficulty :    골드IV
 # Problem :       이분 그래프
 
+# Graph
+
 from collections import deque
 import sys
 input = sys.stdin.readline

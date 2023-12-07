@@ -4,6 +4,8 @@
 # Difficulty :    골드IV
 # Problem :       카드 정렬하기
 
+# Priority Queue
+
 from queue import PriorityQueue
 import sys
 input = sys.stdin.readline

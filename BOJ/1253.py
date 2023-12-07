@@ -4,6 +4,8 @@
 # Difficulty :    골드IV
 # Problem :       좋다
 
+# Two Pointer
+
 n = int(input())
 
 num = list(map(int, input().split()))

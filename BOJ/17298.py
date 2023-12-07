@@ -4,6 +4,8 @@
 # Difficulty :    골드IV
 # Problem :       오큰수
 
+# Stack
+
 n = int(input())
 num = list(map(int, input().split()))
 

@@ -4,6 +4,8 @@
 # Difficulty :    골드III
 # Problem :       나머지 합
 
+# Prefix Sum
+
 n, m = map(int, input().split())
 
 num = list(map(int, input().split()))
