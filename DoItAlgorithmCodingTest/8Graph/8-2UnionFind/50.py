@@ -4,8 +4,6 @@
 # Difficulty :    골드V
 # Problem :       집합의 표현
 
-# Union Find Algorithm
-
 from collections import deque
 import sys
 input = sys.stdin.readline

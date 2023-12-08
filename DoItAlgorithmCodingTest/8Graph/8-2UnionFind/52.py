@@ -4,8 +4,6 @@
 # Difficulty :    골드IV
 # Problem :       거짓말
 
-# Union Find Algorithm
-
 import sys
 input = sys.stdin.readline
 

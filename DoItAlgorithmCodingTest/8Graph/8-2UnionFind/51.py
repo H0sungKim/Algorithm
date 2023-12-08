@@ -4,8 +4,6 @@
 # Difficulty :    골드IV
 # Problem :       여행 가자
 
-# Union Find Algorithm
-
 import sys
 input = sys.stdin.readline
 
