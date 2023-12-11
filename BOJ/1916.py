@@ -4,6 +4,8 @@
 # Difficulty :    골드V
 # Problem :       최소비용 구하기
 
+# Dijkstra
+
 from queue import PriorityQueue
 import sys
 input = sys.stdin.readline

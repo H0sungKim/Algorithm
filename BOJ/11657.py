@@ -4,6 +4,8 @@
 # Difficulty :    골드IV
 # Problem :       타임머신
 
+# Bellman Ford Moore
+
 import sys
 input = sys.stdin.readline
 print = sys.stdout.write

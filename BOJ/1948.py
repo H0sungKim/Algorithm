@@ -4,6 +4,8 @@
 # Difficulty :    플래티넘V
 # Problem :       임계경로
 
+# Topology Sort
+
 from collections import deque
 import sys
 input = sys.stdin.readline

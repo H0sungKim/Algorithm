@@ -4,6 +4,8 @@
 # Difficulty :    플래티넘V
 # Problem :       K번째 최단경로 찾기
 
+# Dijkstra
+
 import heapq
 import sys
 input = sys.stdin.readline

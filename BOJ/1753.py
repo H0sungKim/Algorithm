@@ -4,6 +4,8 @@
 # Difficulty :    골드IV
 # Problem :       최단경로
 
+# Dijkstra
+
 from queue import PriorityQueue
 import sys
 input = sys.stdin.readline
