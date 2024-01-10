@@ -4,8 +4,6 @@
 # Difficulty :    골드III
 # Problem :       줄 세우기
 
-# Topology Sort
-
 from collections import deque
 import sys
 input = sys.stdin.readline
