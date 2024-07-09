@@ -4,11 +4,11 @@
 # Difficulty :    브론즈IV
 # Problem :       숫자의 합
 
-numCount = int(input())
-numLst = input()
+n = int(input())
+numList = input()
 numSum = 0
 
-for i in range(numCount) :
-    numSum += int(numLst[i])
+for i in range(n) :
+    numSum += int(numList[i])
 
 print(numSum)
