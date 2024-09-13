@@ -4,12 +4,11 @@
 # Difficulty :    브론즈I
 # Problem :       평균
 
-subNum = int(input())
-scoreSet = input()
+n = int(input())
+scoreList = list(map(int, input().split()))
 
 sum = 0
-temp = list(map(int, scoreSet.split()))
-for i in temp :
+for i in scoreList :
     sum += i  
 
-print(sum/subNum/max(temp)*100)
+print(sum/n/max(scoreList)*100)
